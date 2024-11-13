@@ -1,0 +1,15 @@
+{"time":"2024-11-11T11:42:25.0829424+08:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-11T11:42:25.082980563+08:00","level":"INFO","msg":"created symlink","path":"/root/autodl-tmp/users/yhr/ztz/2024Autumn-NLP-Assignment2/wandb/offline-run-20241111_114225-eixyeqi4/logs/debug-core.log"}
+{"time":"2024-11-11T11:42:25.202034923+08:00","level":"INFO","msg":"created new stream","id":"eixyeqi4"}
+{"time":"2024-11-11T11:42:25.202142067+08:00","level":"INFO","msg":"stream: started","id":"eixyeqi4"}
+{"time":"2024-11-11T11:42:25.202195687+08:00","level":"INFO","msg":"sender: started","stream_id":"eixyeqi4"}
+{"time":"2024-11-11T11:42:25.202163715+08:00","level":"INFO","msg":"handler: started","stream_id":{"value":"eixyeqi4"}}
+{"time":"2024-11-11T11:42:25.202208101+08:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"eixyeqi4"}}
+{"time":"2024-11-11T11:42:25.220746959+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-11T11:44:11.663465176+08:00","level":"INFO","msg":"stream: closing","id":"eixyeqi4"}
+{"time":"2024-11-11T11:44:11.663525389+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-11T11:44:11.664395836+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-11T11:44:11.664741862+08:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"eixyeqi4"}}
+{"time":"2024-11-11T11:44:11.664772371+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"eixyeqi4"}}
+{"time":"2024-11-11T11:44:11.664826177+08:00","level":"INFO","msg":"sender: closed","stream_id":"eixyeqi4"}
+{"time":"2024-11-11T11:44:11.664879473+08:00","level":"INFO","msg":"stream: closed","id":"eixyeqi4"}

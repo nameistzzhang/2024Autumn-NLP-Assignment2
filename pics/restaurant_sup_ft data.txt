@@ -1,0 +1,38 @@
+loss:
+allenai/scibert_scivocab	0.28090000000000004
+bert-base-uncased	0.27324000000000004
+roberta	0.25680000000000003
+
+accuracy:
+roberta-base	0.8560714285714287
+bert-base-uncased	0.8444642857142857
+allenai/scibert_scivocab_uncased	0.8076785714285715
+
+macro_f1:
+roberta-base	0.7904772200087475
+bert-base-uncased	0.7648032608812476
+allenai/scibert_scivocab_uncased	0.697290159781614
+
+micro_f1:
+model/num_parameters: 124650246	0.8560714285714287
+model/num_parameters: 109486854	0.8444642857142857
+model/num_parameters: 109923078	0.8076785714285715
+
+memory:
+allenai/scibert_scivocab_uncased-restaurant_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-restaurant_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-restaurant_sup-50 system/gpu.0.memoryAllocatedBytes	18930466816
+allenai/scibert_scivocab_uncased-restaurant_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+allenai/scibert_scivocab_uncased-restaurant_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+
+roberta-base-restaurant_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+roberta-base-restaurant_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+roberta-base-restaurant_sup-50 system/gpu.0.memoryAllocatedBytes	19224068096
+roberta-base-restaurant_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+roberta-base-restaurant_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+
+bert-base-uncased-restaurant_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+bert-base-uncased-restaurant_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+bert-base-uncased-restaurant_sup-50 system/gpu.0.memoryAllocatedBytes	18915786752
+bert-base-uncased-restaurant_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+bert-base-uncased-restaurant_sup-50 system/gpu.2.memoryAllocatedBytes	369491968

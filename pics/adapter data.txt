@@ -1,0 +1,61 @@
+model: roberta-base
+
+restaurant_sup:
+    loss:
+    Group	0.69442
+
+    accuracy:
+    Group	0.7542857142857142
+
+    macro_f1:
+    Group	0.5057361934018745
+
+    micro_f1:
+    Group	0.7542857142857142
+
+    memory:
+    roberta-base-restaurant_sup-50 system/gpu.0.memoryAllocatedBytes	14138474496
+    roberta-base-restaurant_sup-50 system/gpu.2.memoryAllocatedBytes	2491351040
+    roberta-base-restaurant_sup-50 system/gpu.1.memoryAllocatedBytes	369491968
+    roberta-base-restaurant_sup-50 system/gpu.3.memoryAllocatedBytes	369491968
+    roberta-base-restaurant_sup-50 system/gpu.4.memoryAllocatedBytes	369491968
+
+acl_sup:
+    loss:
+    Group	1.4091200000000002
+
+    accuracy:
+    Group	0.5107913669064749
+
+    macro_f1:
+    Group	0.1126984126984127
+
+    micro_f1:
+    Group	0.5107913669064749
+
+    memory:
+    roberta-base-acl_sup-50 system/gpu.0.memoryAllocatedBytes	14138474496
+    roberta-base-acl_sup-50 system/gpu.2.memoryAllocatedBytes	2461990912
+    roberta-base-acl_sup-50 system/gpu.1.memoryAllocatedBytes	369491968
+    roberta-base-acl_sup-50 system/gpu.3.memoryAllocatedBytes	369491968
+    roberta-base-acl_sup-50 system/gpu.4.memoryAllocatedBytes	369491968
+
+agnews_sup:
+    loss:
+    Group	0.35819999999999996
+
+    accuracy:
+    Group	0.9226315789473685
+
+    macro_f1:
+    Group	0.9207438304170408
+
+    micro_f1:
+    Group	0.9226315789473685
+
+    memory:
+    roberta-base-agnews_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+    roberta-base-agnews_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+    roberta-base-agnews_sup-50 system/gpu.2.memoryAllocatedBytes	2461990912
+    roberta-base-agnews_sup-50 system/gpu.0.memoryAllocatedBytes	366477312
+    roberta-base-agnews_sup-50 system/gpu.1.memoryAllocatedBytes	366477312

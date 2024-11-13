@@ -1,0 +1,38 @@
+loss:
+roberta-base	0.74992
+bert-base-uncased	0.7372400000000001
+allenai/scibert_scivocab_uncased	0.51512
+
+accuracy:
+allenai/scibert_scivocab_uncased	0.7884892086330935
+roberta-base	0.7338129496402878
+bert-base-uncased	0.7136690647482015
+
+macro_f1:
+allenai/scibert_scivocab_uncased	0.698686328921301
+roberta-base	0.5187497567028679
+bert-base-uncased	0.4019322645437436
+
+micro_f1:
+allenai/scibert_scivocab_uncased	0.7884892086330935
+roberta-base	0.7338129496402878
+bert-base-uncased	0.7136690647482015
+
+memory:
+allenai/scibert_scivocab_uncased-acl_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-acl_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-acl_sup-50 system/gpu.0.memoryAllocatedBytes	18905300992
+allenai/scibert_scivocab_uncased-acl_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+allenai/scibert_scivocab_uncased-acl_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+
+roberta-base-acl_sup-50 system/gpu.0.memoryAllocatedBytes	19198902272
+roberta-base-acl_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+roberta-base-acl_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+roberta-base-acl_sup-50 system/gpu.3.memoryAllocatedBytes	369491968
+roberta-base-acl_sup-50 system/gpu.4.memoryAllocatedBytes	369491968
+
+bert-base-uncased-acl_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+bert-base-uncased-acl_sup-50 system/gpu.3.memoryAllocatedBytes	369491968
+bert-base-uncased-acl_sup-50 system/gpu.4.memoryAllocatedBytes	369491968
+bert-base-uncased-acl_sup-50 system/gpu.0.memoryAllocatedBytes	18890620928
+bert-base-uncased-acl_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496

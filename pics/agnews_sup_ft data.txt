@@ -1,0 +1,38 @@
+loss:
+roberta-base	0.26067999999999997
+allenai/scibert_scivocab_uncased	0.17563999999999996
+bert-base-uncased	0.16324
+
+accuracy:
+roberta-base	0.9286842105263158
+allenai/scibert_scivocab_uncased	0.9210526315789475
+bert-base-uncased	0.916578947368421
+
+macro_f1:
+roberta-base	0.9270063197885173
+allenai/scibert_scivocab_uncased	0.9195111283680673
+bert-base-uncased	0.9148400297431418
+
+micro_f1:
+roberta-base	0.9286842105263158
+allenai/scibert_scivocab_uncased	0.9210526315789475
+bert-base-uncased	0.916578947368421
+
+memory:
+allenai/scibert_scivocab_uncased-agnews_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-agnews_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+allenai/scibert_scivocab_uncased-agnews_sup-50 system/gpu.0.memoryAllocatedBytes	3906928640
+allenai/scibert_scivocab_uncased-agnews_sup-50 system/gpu.1.memoryAllocatedBytes	369491968
+allenai/scibert_scivocab_uncased-agnews_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+
+roberta-base-agnews_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+roberta-base-agnews_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+roberta-base-agnews_sup-50 system/gpu.0.memoryAllocatedBytes	4200529920
+roberta-base-agnews_sup-50 system/gpu.1.memoryAllocatedBytes	369491968
+roberta-base-agnews_sup-50 system/gpu.2.memoryAllocatedBytes	369491968
+
+bert-base-uncased-agnews_sup-50 system/gpu.3.memoryAllocatedBytes	25207701504
+bert-base-uncased-agnews_sup-50 system/gpu.4.memoryAllocatedBytes	25207701504
+bert-base-uncased-agnews_sup-50 system/gpu.0.memoryAllocatedBytes	18890620928
+bert-base-uncased-agnews_sup-50 system/gpu.1.memoryAllocatedBytes	15342698496
+bert-base-uncased-agnews_sup-50 system/gpu.2.memoryAllocatedBytes	369491968

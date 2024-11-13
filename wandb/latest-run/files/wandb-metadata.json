@@ -1,0 +1,62 @@
+{
+  "os": "Linux-5.4.0-153-generic-x86_64-with-glibc2.31",
+  "python": "3.10.14",
+  "startedAt": "2024-11-11T03:42:25.075993Z",
+  "program": "/root/autodl-tmp/users/yhr/ztz/2024Autumn-NLP-Assignment2/train.py",
+  "codePath": "train.py",
+  "root": "/root/autodl-tmp/users/yhr/ztz/2024Autumn-NLP-Assignment2",
+  "host": "autodl-container-e434419765-431685f0",
+  "username": "yhr",
+  "executable": "/root/autodl-tmp/users/yhr/miniconda3/envs/llama_factory/bin/python",
+  "codePathLocal": "train.py",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 5,
+  "disk": {
+    "/": {
+      "total": "32212254720",
+      "used": "9778008064"
+    }
+  },
+  "memory": {
+    "total": "1081820532736"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.2"
+}
